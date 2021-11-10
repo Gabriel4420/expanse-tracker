@@ -1,21 +1,21 @@
 <h1 align="center">
-  &#x1F4F1; Expensive Tracker &#x1F4F1;
+  &#x1F4F1; Expanse Tracker &#x1F4F1;
 </h1>
 
 <p align="center">
-   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Gabriel4420/expensive-tracker">
+   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Gabriel4420/expanse-tracker">
 
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Gabriel4420/expensive-tracker?logo=html">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Gabriel4420/expanse-tracker?logo=html">
 
-  <img alt="GitHub repo size in bytes" src="https://img.shields.io/github/repo-size/Gabriel4420/expensive-tracker?color=green">
+  <img alt="GitHub repo size in bytes" src="https://img.shields.io/github/repo-size/Gabriel4420/expanse-tracker?color=green">
 
   <br>
   
-  <a href="https://www.codacy.com/manual/Gabriel4420/expensive-tracker?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Gabriel4420/expensive-tracker&amp;utm_campaign=Badge_Grade">
+  <a href="https://www.codacy.com/manual/Gabriel4420/expanse-tracker?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Gabriel4420/expanse-tracker&amp;utm_campaign=Badge_Grade">
     <img src="https://app.codacy.com/project/badge/Grade/6dd6b46abeb14e99935a2b9ac5c6ede2"/>
   </a>
   
-  <img alt="GitHub code size in bytes" src="https://img.shields.io/github/last-commit/Gabriel4420/expensive-tracker">
+  <img alt="GitHub code size in bytes" src="https://img.shields.io/github/last-commit/Gabriel4420/expanse-tracker">
 
   <a href="https://www.linkedin.com/in/gabriel-rodrigues-perez-2069b072/">
     <img alt="Made by Gabriel" src="https://img.shields.io/badge/made%20by-Gabriel-%2304D361">
@@ -40,7 +40,7 @@
 
 ## :rocket: Sobre o Projeto
 
-A proposta do expensive-tracker, é calcular a renda durantes os meses do ano e verificar o balanço das contas.
+A proposta do expanse-tracker, é calcular a renda durantes os meses do ano e verificar o balanço das contas.
 
 ---
 
@@ -76,7 +76,7 @@ Para copiar o projeto, utilize os comandos:
 
 ```bash
   # Clonar o repositório
-  ❯ git clone https://github.com/Gabriel4420/expensive-tracker.git
+  ❯ git clone https://github.com/Gabriel4420/expanse-tracker.git
 ```
 
 Para instalar as dependências e iniciar o projeto, você pode utilizar o yarn ou npm:
